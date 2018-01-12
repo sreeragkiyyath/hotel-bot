@@ -1,6 +1,6 @@
 /**
 
-@Authors: Akshat Bordia (akshat.bordia@citrix.com) and Neha Joshi (neha.joshi@citrix.com)
+@Authors: sreerag
 **/
 nlp = window.nlp_compromise;
 
